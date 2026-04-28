@@ -101,4 +101,4 @@ It highlights the importance of balancing fairness and performance in real-world
 ## 📎 Author
 
   
-[Chaitanya Shrivastava](www.linkedin.com/in/chaitanya-shrivastava)
+[Chaitanya Shrivastava](https://www.linkedin.com/in/chaitanya-shrivastava)
