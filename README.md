@@ -78,7 +78,7 @@ A small reduction in accuracy resulted in a substantial improvement in fairness,
 - Pandas  
 - Scikit-learn  
 - Fairlearn  
-- Jupyter Notebook / Google Colab  
+- Google Colab  
 
 <br>
 
